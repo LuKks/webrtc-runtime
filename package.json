@@ -26,5 +26,9 @@
   "homepage": "https://github.com/lukks/webrtc-runtime#readme",
   "devDependencies": {
     "standard": "^17.1.0"
+  },
+  "dependencies": {
+    "@roamhq/wrtc": "^0.10.0",
+    "react-native-webrtc": "^124.0.7"
   }
 }
