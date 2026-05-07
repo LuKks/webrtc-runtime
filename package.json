@@ -3,7 +3,11 @@
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
-  "files": [],
+  "files": [
+    "node.js",
+    "browser.js",
+    "mobile.js"
+  ],
   "exports": {
     ".": {
       "node": "./node.js",
