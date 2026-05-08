@@ -1,1 +1,1 @@
-module.exports = require('react-native-webrtc')
+module.exports = require('react-native-webrtc-nitro')
