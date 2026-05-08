@@ -32,7 +32,7 @@
     "standard": "^17.1.0"
   },
   "dependencies": {
-    "@cloudflare/react-native-webrtc": "^125.0.5",
-    "@roamhq/wrtc": "^0.10.0"
+    "@roamhq/wrtc": "^0.10.0",
+    "react-native-webrtc": "^124.0.7"
   }
 }
