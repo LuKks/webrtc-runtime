@@ -12,7 +12,8 @@
     ".": {
       "node": "./node.js",
       "browser": "./browser.js",
-      "react-native": "./mobile.js"
+      "react-native": "./mobile.js",
+      "default": "./browser.js"
     }
   },
   "scripts": {
@@ -31,16 +32,15 @@
   "devDependencies": {
     "standard": "^17.1.0"
   },
+  "optionalDependencies": {
+    "@roamhq/wrtc": "^0.10.0"
+  },
   "peerDependencies": {
-    "@roamhq/wrtc": "^0.10.0",
     "react-native-webrtc": "^124.0.7"
   },
   "peerDependenciesMeta": {
-    "@roamhq/wrtc": {
-      "optional": true
-    },
     "react-native-webrtc": {
       "optional": true
     }
-  }
+  },
 }
