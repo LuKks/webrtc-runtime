@@ -42,5 +42,5 @@
     "react-native-webrtc": {
       "optional": true
     }
-  },
+  }
 }
