@@ -31,8 +31,16 @@
   "devDependencies": {
     "standard": "^17.1.0"
   },
-  "dependencies": {
+  "peerDependencies": {
     "@roamhq/wrtc": "^0.10.0",
     "react-native-webrtc": "^124.0.7"
+  },
+  "peerDependenciesMeta": {
+    "@roamhq/wrtc": {
+      "optional": true
+    },
+    "react-native-webrtc": {
+      "optional": true
+    }
   }
 }
