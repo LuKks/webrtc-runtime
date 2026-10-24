@@ -1,6 +1,6 @@
 # webrtc-runtime
 
-Get the right WebRTC for Node.js, React Native and browser 
+Get the right WebRTC for Node.js, React Native and browser
 
 ```
 npm i webrtc-runtime
@@ -10,6 +10,8 @@ npm i webrtc-runtime
 
 ```js
 const { RTCPeerConnection, RTCIceCandidate } = require('webrtc-runtime')
+
+// ...
 ```
 
 ## License

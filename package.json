@@ -1,7 +1,7 @@
 {
   "name": "webrtc-runtime",
   "version": "0.0.0",
-  "description": "",
+  "description": "Get the right WebRTC for Node.js, React Native and browser",
   "main": "index.js",
   "files": [
     "node.js",
@@ -29,9 +29,6 @@
     "url": "https://github.com/lukks/webrtc-runtime/issues"
   },
   "homepage": "https://github.com/lukks/webrtc-runtime#readme",
-  "devDependencies": {
-    "standard": "^17.1.0"
-  },
   "optionalDependencies": {
     "@roamhq/wrtc": "^0.10.0"
   },
