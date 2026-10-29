@@ -1,6 +1,6 @@
 {
   "name": "webrtc-runtime",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the right WebRTC for Node.js, React Native and browser",
   "main": "index.js",
   "files": [
