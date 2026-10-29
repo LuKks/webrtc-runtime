@@ -33,7 +33,7 @@
     "@roamhq/wrtc": "^0.10.0"
   },
   "peerDependencies": {
-    "react-native-webrtc": "^124.0.7"
+    "react-native-webrtc": "^155.0.1"
   },
   "peerDependenciesMeta": {
     "react-native-webrtc": {
