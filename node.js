@@ -1,1 +1,1 @@
-module.exports = require('@roamhq/wrtc')
+module.exports = require('@lukks/wrtc')
